@@ -19,4 +19,4 @@ The distribution includes Python scripts: 
 - /Input                            -> folder containing the input data 
 - /1                                -> folder where model output is written
  
-For questions and comment please contact: pertti.ala-aho@abdc.ac.uk / pertti.ala-aho@oulu.fi
+For questions and comment please contact: pertti.ala-aho (at) abdc.ac.uk / pertti.ala-aho (at) oulu.fi
