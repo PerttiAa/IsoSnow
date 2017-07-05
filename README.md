@@ -16,7 +16,7 @@ The distribution includes Python scripts: 
 - IsoSnow_reporting_2017_07_04.py   -> script to specify what model output is written to disk 
 - IsoSnow_model_2016_12_22_PA.py    -> the actual model algoritms 
 - waterBalanceCheck.py              -> script to check simulated water balance
- - /Input                           -> folder containing the input data 
- - /1                               -> folder where model output is written
+- /Input                            -> folder containing the input data 
+- /1                                -> folder where model output is written
  
-For questionsand comment please contact pertti.ala-aho@abdc.ac.uk or pertti.ala-aho@oulu.fi
+For questions and comment please contact: pertti.ala-aho@abdc.ac.uk / pertti.ala-aho@oulu.fi
