@@ -10,7 +10,7 @@ The IsoSnow_v1.0 is built with Python 2.7.9 64-bit AND PCraster 4.0.2_x86-64, wh
 Available from: http://pcraster.geo.uu.nl/; https://www.python.org/downloads/
 Spatial model output can be visualised with Aguila: http://pcraster.geo.uu.nl/projects/developments/aguila/
 
-The distribution includes Python scripts: 
+The distribution includes: 
 - IsoSnow_setup_2017_07_04.py       -> script to setup the model run (using PCraster) 
 - IsoSnow_initialPara_2017_07_04.py -> script to define parameter values and initial conditions 
 - IsoSnow_reporting_2017_07_04.py   -> script to specify what model output is written to disk 
